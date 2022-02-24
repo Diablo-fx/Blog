@@ -27,7 +27,7 @@
                 <div class="fakeimg"></div>
             </div>
             <div class="new">
-                <h3>Наши соц сети</h3>
+                <h3>Cоц сети</h3>
                     <div class="social instagram">
                         <a href="#" target="_blank">
                             <svg role="img" viewBox="0 0 448 512">
