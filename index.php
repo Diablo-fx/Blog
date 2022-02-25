@@ -18,7 +18,7 @@
             <div class="new">
                 <h2>Новости из жизни</h2>
                 <img src="img/504b620cff6f4e0c9f556b6dba35a8d4.jpg" alt="">
-                <p>можно что-нибудь написать тут</p>
+                <p</p>
             </div>
             <div class="new">
                 <h3>что-то интересное</h3>
